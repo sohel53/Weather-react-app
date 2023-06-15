@@ -1,0 +1,17 @@
+.title {
+    color: green;
+}
+
+.location {
+    /* margin-top: 15%; */
+    text-align: center;
+    justify-content: center;
+}
+
+.btn {
+    box-sizing: border-box;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(123, 123, 239);
+    color: white;
+}
